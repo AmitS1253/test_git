@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 I am Amit2
-=======
+
 I am Amit
->>>>>>> test_feature
